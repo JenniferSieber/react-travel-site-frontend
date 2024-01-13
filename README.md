@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-PHOTOS of Frontend in Images: Screencaps.
+PHOTOS of Projects - Mobile & PC Views on main branch for preview.
 This Project is a Travel Site Front End version 1. I will be building backend. Currently all dynamic data pulled on the Card component is supplied via the data.js file in Components folder. I did not add my images to this repository currently.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
