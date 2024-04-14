@@ -58,6 +58,7 @@ nav {
   width: 200px;
   margin-bottom: 10px;
 }
+
 nav p {
   display: block;
   color: var(--color-accent-2);
@@ -95,13 +96,11 @@ nav p {
   justify-content: center;
   align-items: center;
   padding: 15px;
-
 }
 
 .card--image {
   width: 80%;
   border-radius: 10px;
-  
 }
 
 .card--details-container {
